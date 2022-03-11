@@ -5,6 +5,7 @@
 
 #include "shaders/shaders.h"
 #include "buffer_objects/buffer_objects.h"
+#include "avl_tree/avl_tree.h"
 
 // Size of window
 #define WINDOW_WIDTH 450
